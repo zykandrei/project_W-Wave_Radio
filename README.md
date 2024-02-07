@@ -1,2 +1,1 @@
-# project_W-Wave_Radio
-Projects that you are not ashamed to show. A must-see for anyone interested.
+# Веб-сай с адаптивной, кроссбраузерной вёрсткой, с применением JS и различных библиотек. LandingPage
